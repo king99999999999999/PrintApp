@@ -1,6 +1,7 @@
 public class PrinterApp {
     public static void main(String[] args) {
         String creator = "Shaharear Ahmed Badhon";
+        // Declare and initialize a String variable to store the creator's name
         double number1 = 5.0; 
         double number2 = 2.0; 
         double multiplication;
