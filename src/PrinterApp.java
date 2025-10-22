@@ -8,6 +8,7 @@ public class PrinterApp {
         double addition;
         double division;
         double subtraction;
+        // Print the title of the program
         System.out.println("Printer App");
         System.out.print("This app is made by: ");
         System.out.println(creator);
