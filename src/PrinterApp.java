@@ -16,6 +16,7 @@ public class PrinterApp {
         multiplication = number1 * number2;
         System.out.println((int)number1 + " * " + (int)number2 + " = " + (int)multiplication);
         addition = number1 + number2;
+         // Perform addition and display the result
         System.out.println((int)number1 + " + " + (int)number2 + " = " + (int)addition);
         division = number1 / number2;
         System.out.println((int)number1 + " / " + (int)number2 + " = " + division);
